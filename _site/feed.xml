@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jefferson Ribeiro Blog - Articles</title>
+    <description>Programação, Desenvolvimento Web, Tecnologia entre outras coisas aleatórias</description>
+    <link>
+    http://blog.jeffersonribeiro.com</link>
+    
+      
+      <item>
+        <title>Testando</title>
+        
+          <description>&lt;p&gt;Olá de novo Jekyll!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 07 Apr 2017 13:20:00 -0300</pubDate>
+        <link>
+        http://blog.jeffersonribeiro.com/testando</link>
+        <guid isPermaLink="true">http://blog.jeffersonribeiro.com/testando</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Hello World</title>
+        
+          <description>&lt;p&gt;An h1 header&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 01 Dec 2016 13:00:00 -0200</pubDate>
+        <link>
+        http://blog.jeffersonribeiro.com/hello-world</link>
+        <guid isPermaLink="true">http://blog.jeffersonribeiro.com/hello-world</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gabassi</title>
+        
+          <description>&lt;p&gt;adhsajdnhkasdkjahsdkjhajksdhkjahsdjkhasdjkasjdks&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 01 Dec 2016 13:00:00 -0200</pubDate>
+        <link>
+        http://blog.jeffersonribeiro.com/gabassi</link>
+        <guid isPermaLink="true">http://blog.jeffersonribeiro.com/gabassi</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
