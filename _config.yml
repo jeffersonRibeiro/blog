@@ -59,9 +59,9 @@ safe: false
 lsi: false
 username: jeffersonRibeiro
 repo: blog
-branch: master
+branch: gh-pages
 relative_source: ../blog/
-destination: ../blog-pages/
+destination: _site
 production_url:  http://blog.jeffersonribeiro.com
 source_url:      http://blog.jeffersonribeiro.com
 
