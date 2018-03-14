@@ -10,6 +10,8 @@ navigation: True
 logo: 'assets/images/logo.png'
 ---
 
+
+
 SimpleSelect jQuery Plugin
 
 HTML:
@@ -36,21 +38,7 @@ var options = {
         'PHP',
         'BRAZIL',
         'CANADA',
-        'MEAN',
-        'REACTJS',
-        'CSS',
-        'GULP',
-        'ECMASCRIPT',
-        'FLASH',
-        'ACTIONSCRIPT',
-        'MOVIECLIP',
-        'PROGRAMADOR',
-        'FRONTEND',
-        'FULLSTACK',
-        'BACKEND',
-        'ACER',
-        'APPLE',
-        'MICROSOFT',
+        'MEAN'
     ]
 }
 
