@@ -15,14 +15,11 @@ logo: 'assets/images/logo.png'
 
 HTML:
 ~~~html
-
 <select id="segment" name="segmentation"></select>
-
 ~~~
 
 JavaScript
 ~~~javascript
-
 var options = {
     terms: [
         'RESTAURANTE',
@@ -42,7 +39,6 @@ var options = {
 }
 
 $('#segment').simpleSelect(options);
-
 ~~~
 
 ### Options
