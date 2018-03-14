@@ -12,7 +12,6 @@ logo: 'assets/images/logo.png'
 
 
 
-SimpleSelect jQuery Plugin
 
 HTML:
 ~~~html
