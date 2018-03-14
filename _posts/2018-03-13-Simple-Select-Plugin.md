@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/hello-world.jpg'
+cover: 'assets/images/402846137-flat-wallpapers.jpg'
 title: Plugin Jquery Select com Search
 date:   2018-03-13 23:45:00
 tags: Javascript, Jquery
