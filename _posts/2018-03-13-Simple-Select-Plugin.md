@@ -45,5 +45,19 @@ $('#segment').simpleSelect(options);
 
 ~~~
 
+## Options
+--------------  -----------------------------
+Name            Description
+--------------  -----------------------------
+terms           Termos que serão renderizados
+                dentro do <select>
+
+notFoundMessage Mensagem p/ quando a pesquisa
+                não retornar nehum valor
+
+defaultSelected Texto p/ quando nenhum dos
+                <options> estiver selecionado
+--------------- -----------------------------
+
 <p data-height="657" data-theme-id="dark" data-slug-hash="dmGeGJ" data-default-tab="result" data-user="jeffersonRibeiro" data-embed-version="2" data-pen-title="dmGeGJ" class="codepen">See the Pen <a href="https://codepen.io/jeffersonRibeiro/pen/dmGeGJ/">dmGeGJ</a> by Jefferson Ribeiro (<a href="https://codepen.io/jeffersonRibeiro">@jeffersonRibeiro</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
