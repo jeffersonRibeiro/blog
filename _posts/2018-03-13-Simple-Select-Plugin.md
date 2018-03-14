@@ -49,7 +49,7 @@ $('#segment').simpleSelect(options);
 
 | Name            | Description                                                 |
 | --------------- |:-----------------------------------------------------------:|
-| terms           | Termos que serão renderizados dentro do <select>            |
+| terms           | Termos que serão renderizados dentro do select            |
 | notFoundMessage | Mensagem p/ quando a pesquisa não retornar nehum valor      |
 | defaultSelected | Texto p/ quando nenhum dos options estiver selecionado      |
 
